@@ -1,8 +1,22 @@
 # Udacity Blockchain Capstone
 
-WIP
+resumen
 
-The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
+# ERC721
+
+blablabla
+
+# Zokrates
+
+bliblibli
+
+# Project Resources
+
+direccion contrato con 10 tokens
+
+# Opensea
+
+blublublu
 
 # Project Resources
 
