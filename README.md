@@ -1,6 +1,6 @@
 # Udacity Blockchain Capstone
 
-This project is a Real Estate Marketplace
+This project provides a Real Estate marketplace solution using blockchain technology. It is based on the ERC721 token standard in a custom implementation contract with a zkSnarks verification that solves the property title proving issue without revealing that specific information on the property. This custom contract also includes custom ownable and pausable functionalities and enumeration and metadata handling components. ZkSnarks verification has been fulfilled using [ZoKrates](https://github.com/Zokrates/ZoKrates), a toolbox for zkSNARKs on Ethereum and the resulting Real State tokens have been listed and purchased on [OpenSea](https://opensea.io/) marketplace.
 
 # Instructions
 
