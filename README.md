@@ -698,7 +698,8 @@ The resulting minting transactions can be checked in [Etherscan](https://rinkeby
 
 This new ERC721 tokens can be listed and sold in a crypto collectibles marketplace such as [OpenSea](https://opensea.io/).
 
-Contract info in OpenSea: https://rinkeby.opensea.io/assets/unidentified-contract-163
+Contract info in OpenSea:  
+https://rinkeby.opensea.io/assets/unidentified-contract-163
 
 Examples of listed and sold tokens:  
 https://rinkeby.opensea.io/assets/0x77ee420ba8572ad0669dc9d0f7c19b8a961e8405/1
