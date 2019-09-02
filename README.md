@@ -59,9 +59,9 @@ generate-proof
 
 # Deployment on Rinkeby
 
-Tx: 0xc05d80ad4526fb8f5bea513c49acd522ced969f2214b85ee7fdd2e3dd5e62771
-Address: 0x77EE420Ba8572ad0669dC9d0f7C19B8a961e8405
-abi : [
+* Tx: 0xc05d80ad4526fb8f5bea513c49acd522ced969f2214b85ee7fdd2e3dd5e62771
+* Address: 0x77EE420Ba8572ad0669dC9d0f7C19B8a961e8405
+* ABI : [
     {
       "constant": true,
       "inputs": [
