@@ -53,9 +53,9 @@ contract('TestERC721Mintable', accounts => {
             let balanceOf3After =  await this.contract.balanceOf.call(account_three);
             let newOwner = await this.contract.ownerOf.call(4);
             // assert
-            assert.equal(balanceOf2After, Number(balanceOf2Before) + 1, "mensaje1");
-            assert.equal(balanceOf3After, Number(balanceOf3Before) - 1, "mensaje2");
-            assert.equal(newOwner, account_two, "mensaje3");
+            assert.equal(balanceOf2After, Number(balanceOf2Before) + 1, "The balance of the new owner does not reflect the transfer");
+            assert.equal(balanceOf3After, Number(balanceOf3Before) - 1, "The balance of the original owner does not reflect the transfer");
+            assert.equal(newOwner, account_two, "The ownership of the token is not changed");
         })
     });
 
